@@ -21,7 +21,7 @@ const Success=()=>{
                 </div>
                 <div className="flex flex-col items-center py-12 px-10">
                     <p className="font-bold text-center mb-5 text-[18px] md:text-[28px]" style={{color: '#4A4B4D'}}>Order Placed Successfully</p>
-                    <p className="text-center text-sm mb-12 max-w-[300px]">Your Order Has Been Placed Successfull We'll Try To Ship It To Your Door Step As Soon We Can. Cheers</p>
+                    <p className="text-center text-sm mb-12 max-w-[300px]">Your Order Has Been Placed Successfull We will Try To Ship It To Your Door Step As Soon We Can. Cheers</p>
                     <button className="text-white py-2 text-sm md:text-lg px-10 rounded" style={{backgroundColor: '#004197'}} onClick={handleContinueShopping}>CONTINUE SHOPPING</button>
                 </div>
             </div>
