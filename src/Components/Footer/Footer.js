@@ -29,7 +29,7 @@ const Footer=()=>{
                 </div>
 
                 <div className="p-10 max-w-[500px]">
-                    <p className="text-sm lg:text-lg mb-5">Be the first to know about our biggest and best sales. We'll never send more than one email a month.</p>
+                    <p className="text-sm lg:text-lg mb-5">Be the first to know about our biggest and best sales. We will never send more than one email a month.</p>
                     <div className="mb-4 py-3 flex items-center" style={{borderBottom: '1px solid black'}}>
                         <input
                         type="email"
