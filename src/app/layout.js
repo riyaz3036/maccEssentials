@@ -1,6 +1,6 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-import '../public/styles/tailwind.css';
+import '../../public/styles/tailwind.css';
 import ReduxProvider from './Provider';
 
 
