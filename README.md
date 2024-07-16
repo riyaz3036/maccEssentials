@@ -3,6 +3,10 @@
 Visit the website at: https://macc-essentials.vercel.app/
 
 
+## Quick video regarding the applicaton
+https://drive.google.com/file/d/1Hzy0UbTL8oNkjLSd8eCZDuaP_s1FpwWd/view?usp=drive_link
+
+
 ## Technology Stack
 
 - **Coding Languages**: <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
