@@ -1,3 +1,3 @@
-const RAPIDAPI_KEY = '9ab4842c08mshfea3858b37f3602p1dfc5djsn6f5fe95c8a63';
+const RAPIDAPI_KEY = 'd0c4d9d480mshcffe00db3147078p13b83bjsn6ce41d2f89d7';
 
 export default RAPIDAPI_KEY;
