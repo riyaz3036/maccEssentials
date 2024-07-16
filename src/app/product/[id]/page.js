@@ -22,12 +22,7 @@ const ProductPage = () => {
 
   const [addedmsg, setAddedmsg] = useState(false);
 
-  useEffect(() => {
-    if (!product || product.asin !== id) {
-      // If the product is not available in the Redux state, redirect to the 404 page
-      router.push('/404');
-    }
-  }, [id, product, router]);
+ 
 
   // Handle adding product to the cart
   const handleAddToCart = () => {
